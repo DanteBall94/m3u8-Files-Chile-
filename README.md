@@ -188,8 +188,8 @@ https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 T-Vinet (480p)
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 
-Telecanal (480p)
-http://207.248.2.105:3200/play/a0wz/index.m3u8
+Telecanal (432p)
+https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD / https://drive.google.com/file/d/1tqmDop0ODQVuBmHFTvd1uUaI1CaeC3EJ/view?usp=drivesdk
 
 Teletrak (720p)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
